@@ -17,18 +17,26 @@ This application uses an existing text editor to make it work as a PWA (Progress
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technologies Used](#technologies-used)
 - [Questions](#questions)
 
 ## Installation
 
-* Downloaded starter code provided by git cloning the repository. 
+* Download starter code provided by git cloning the repository. 
 * Run npm install in terminal to download all packages.
 
 ## Usage
 
 1. In terminal, run ```npm run start```. 
-2. Test localhost:{PORT} in Insomnia with PORT being to what you had set it to. 
+2. Since we are deploying this into Heroku, test localhost:3000 in Insomnia. 
 
+## Technologies Used
+* HTML
+* CSS
+* Javascript
+* Node JS
+* Express JS
+* React
 
 ## Questions
 If you have any questions, open an issue or contact me directly at myia_moua26@yahoo.com. You can find more of my work at https://github.com/SkyWalkerMM26.
